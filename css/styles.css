@@ -110,6 +110,19 @@ margin-left: auto;}
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
+  .hero
+  {
+    background-repeat: no-repeat;
+    width: 100%
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(
+        to bottom, 
+        rgba(46, 47, 66, 0.7), 
+        rgba(46, 47, 66, 0.7)
+        ),
+        url(../images/people-office.jpg);
+  }
 .about-list{display: flex;
     gap: 24px;}
     .about-item{width: calc((100% - 72px) / 4); }
