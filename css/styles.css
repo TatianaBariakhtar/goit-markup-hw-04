@@ -130,6 +130,18 @@ margin-left: auto;}
     gap: 24px;}
     .about-item{width: calc((100% - 72px) / 4); }
 .about-subtitle{margin-bottom: 8px;}
+.icon-about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    background-color: #f4f4fd;
+    margin-bottom: 8px;}
+    .icon-about-antenna{width: 64px;
+    height: 64px;}
 .team{padding: 120px 0;}
 .contact-info-link
 {display: block;
