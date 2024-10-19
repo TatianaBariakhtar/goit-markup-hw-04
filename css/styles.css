@@ -169,7 +169,8 @@ margin-left: auto;}
 
 }
 .team-icon-link:focus{background-color: #404bbf;}
-icon-common {fill:#f4f4fd;}
+
+icon-common{fill:#f4f4fd;}
 .team{padding: 120px 0;}
 .contact-info-link
 {display: block;
