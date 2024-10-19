@@ -130,6 +130,7 @@ margin-left: auto;}
     gap: 24px;}
     .about-item{width: calc((100% - 72px) / 4); }
 .about-subtitle{margin-bottom: 8px;}
+
 .icon-about{
     display: flex;
     align-items: center;
@@ -142,6 +143,19 @@ margin-left: auto;}
     margin-bottom: 8px;}
     .icon-about-antenna{width: 64px;
     height: 64px;}
+
+    .team-icon-link{fill: 4D5AE5;
+    stroke: #FFFFFF}
+
+    .team-icon-link{width: 40px;
+    height: 40px;
+    background-color:  4D5AE5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .team{padding: 120px 0;}
 .contact-info-link
 {display: block;
