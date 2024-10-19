@@ -338,7 +338,7 @@ color: #434455;
 .team-role {text-align: center;
    } 
 .portfolio-item {transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1); } 
-.portfolio-item:hover.portfolio-project-type {transform: translateY(0%);}
+.portfolio-item:hover .portfolio-project-type {transform: translateY(0%);}
 .portfolio{padding-top: 120px; padding-bottom: 120px; }
 .portfolio-title {margin-bottom: 72px;
     color: #2e2f42;
