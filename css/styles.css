@@ -330,7 +330,7 @@ color: #434455;
 .team-name {font-family: "Roboto", sans-serif;
     text-align: center;
      }
-.portfolio-list:hover{0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); }
+.portfolio-list:hover{box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); }
 .portfolio-project-title{font-family: "Roboto", sans-serif;}
 .team-role {text-align: center;
    }  
